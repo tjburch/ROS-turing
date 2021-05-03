@@ -50,7 +50,7 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - Helicopters/helicopters.html
 - Imputation/imputation.html
 - Imputation/imputation_gg.html
-- Incentives/incentives.html
+- ✔️ Incentives/incentives.html
 - Influence/influence.html
 - Interactions/interactions.html
 - Introclass/residual_plots.html
