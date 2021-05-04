@@ -1,9 +1,13 @@
 # ROS-turing
+
 Turing.jl port of the book "Regression and Other Stories" by Andrew Gelman, Jennifer Hill, and Aki Vehtari
 
 WIP - Started April 29, 2021. Collaborators welcomed.
 
-# Progress:
+## Progress
+
+🚧 = In progress
+✔️ = Completed
 
 - AcademyAwards/
 - AgePeriodCohort/births.html
@@ -31,9 +35,9 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - Earnings/earnings_regression.html
 - Earnings/earnings_bootstrap.html
 - Earnings/earnings_compound.html
-- Earnings/height_and_weight.html - IN PROGRESS
+- 🚧 Earnings/height_and_weight.html
 - ElectionsEconomy/bayes.html
-- ElectionsEconomy/hibbs.html - IN PROGRESS
+- 🚧 ElectionsEconomy/hibbs.html
 - ElectionsEconomy/hills.html
 - ElectionsEconomy/hibbs_coverage.html
 - ElectricCompany/electric.html
@@ -44,7 +48,7 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - Gay/gay_simple.html
 - Gay/gay.html
 - Girls/
-- Golf/golf.html
+- ✔️ Golf/golf.html
 - HDI/hdi.html
 - HealthExpenditure/healthexpenditure.html
 - Helicopters/helicopters.html
