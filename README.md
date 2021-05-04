@@ -7,6 +7,7 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 ## Progress
 
 🚧 = In progress
+
 ✔️ = Completed
 
 - AcademyAwards/
