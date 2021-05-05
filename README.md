@@ -66,7 +66,7 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - Lalonde/
 - LogisticPriors/logistic_priors.html
 - Mesquite/mesquite.html
-- Metabolic/metabolic.html
+- ✔️ Metabolic/metabolic.html
 - ✔️ Mile/mile.html
 - Names/names.html
 - Names/lastletters.html
