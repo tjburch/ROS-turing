@@ -52,7 +52,7 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - ✔️ Golf/golf.html
 - HDI/hdi.html
 - HealthExpenditure/healthexpenditure.html
-- Helicopters/helicopters.html
+- ✔️ Helicopters/helicopters.html
 - Imputation/imputation.html
 - Imputation/imputation_gg.html
 - ✔️ Incentives/incentives.html
