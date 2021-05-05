@@ -67,7 +67,7 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - LogisticPriors/logistic_priors.html
 - Mesquite/mesquite.html
 - Metabolic/metabolic.html
-- Mile/mile.html
+- ✔️ Mile/mile.html
 - Names/names.html
 - Names/lastletters.html
 - NES/nes_linear.html
