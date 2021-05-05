@@ -78,7 +78,7 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - PearsonLee/heights.html
 - Pew/pew.html
 - PoissonExample/poissonexample.html
-- Pollution/pollution.html
+- ✔️ Pollution/pollution.html
 - Poststrat/poststrat.html
 - Poststrat/poststrat2.html
 - ProbabilitySimulation/probsim.html
