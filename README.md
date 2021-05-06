@@ -10,7 +10,6 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 
 ✔️ = Completed
 
-- AcademyAwards/
 - AgePeriodCohort/births.html
 - Arsenic/arsenic_logistic_building.html
 - Arsenic/arsenic_logistic_residuals.html
@@ -18,17 +17,14 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - Arsenic/arsenic_logistic_building_optimizing.html
 - Balance/treatcontrol.html
 - Beauty/beauty.html
-- Bypass/
 - CausalDiagram/diagrams.html
 - CentralLimitTheorem/heightweight.html
 - Childcare/childcare.html
 - ChileSchools/chile_schools.html
-- Coins/
 - Congress/congress.html
 - Congress/congress_plots.html
 - Coop/riverbay.html
 - Coverage/coverage.html
-- Cows/
 - CrossValidation/crossvalidation.html
 - SampleSize/simulation.html
 - Death/polls.html
@@ -48,7 +44,6 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - FrenchElection/ps_primaire.html
 - Gay/gay_simple.html
 - Gay/gay.html
-- Girls/
 - ✔️ Golf/golf.html
 - HDI/hdi.html
 - HealthExpenditure/healthexpenditure.html
@@ -63,7 +58,6 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - KidIQ/kidiq_loo.html
 - KidIQ/kidiq_R2.html
 - KidIQ/kidiq_kcv.html
-- Lalonde/
 - LogisticPriors/logistic_priors.html
 - Mesquite/mesquite.html
 - ✔️ Metabolic/metabolic.html
@@ -82,14 +76,11 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - Poststrat/poststrat.html
 - Poststrat/poststrat2.html
 - ProbabilitySimulation/probsim.html
-- Pyth/
-- Redistricting/
 - Residuals/residuals.html
 - Restaurant/restaurant.html
 - RiskyBehavior/risky.html
 - Roaches/roaches.html
 - Robit/robit.html
-- Rodents/
 - Rsquared/rsquared.html
 - Sesame/sesame.html
 - SexRatio/sexratio.html
