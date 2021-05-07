@@ -24,7 +24,7 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - Congress/congress.html
 - Congress/congress_plots.html
 - Coop/riverbay.html
-- Coverage/coverage.html
+- ✔️ Coverage/coverage.html
 - CrossValidation/crossvalidation.html
 - SampleSize/simulation.html
 - Death/polls.html
