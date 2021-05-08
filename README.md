@@ -33,7 +33,7 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - Earnings/earnings_bootstrap.html
 - Earnings/earnings_compound.html
 - 🚧 Earnings/height_and_weight.html
-- ElectionsEconomy/bayes.html
+- ✔️ ElectionsEconomy/bayes.html
 - 🚧 ElectionsEconomy/hibbs.html
 - ElectionsEconomy/hills.html
 - ElectionsEconomy/hibbs_coverage.html
