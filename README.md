@@ -42,7 +42,7 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - FakeMidtermFinal/simulation.html
 - FakeMidtermFinal/simulation_based_design.html
 - FrenchElection/ps_primaire.html
-- Gay/gay_simple.html
+- ✔️ Gay/gay_simple.html
 - Gay/gay.html
 - ✔️ Golf/golf.html
 - HDI/hdi.html
