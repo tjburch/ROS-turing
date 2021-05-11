@@ -2,7 +2,7 @@
 
 Turing.jl port of the book "Regression and Other Stories" by Andrew Gelman, Jennifer Hill, and Aki Vehtari
 
-WIP - Started April 29, 2021. Collaborators welcomed.
+WIP - Started April 29, 2021.
 
 ## Progress
 
@@ -21,7 +21,7 @@ WIP - Started April 29, 2021. Collaborators welcomed.
 - CentralLimitTheorem/heightweight.html
 - Childcare/childcare.html
 - ChileSchools/chile_schools.html
-- Congress/congress.html
+- ✔️ Congress/congress.html
 - Congress/congress_plots.html
 - Coop/riverbay.html
 - ✔️ Coverage/coverage.html
