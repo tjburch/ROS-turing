@@ -58,7 +58,7 @@ WIP - Started April 29, 2021.
 - KidIQ/kidiq_loo.html
 - KidIQ/kidiq_R2.html
 - KidIQ/kidiq_kcv.html
-- LogisticPriors/logistic_priors.html
+- ✔️ LogisticPriors/logistic_priors.html
 - Mesquite/mesquite.html
 - ✔️ Metabolic/metabolic.html
 - ✔️ Mile/mile.html
