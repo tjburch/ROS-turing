@@ -15,7 +15,7 @@ WIP - Started April 29, 2021.
 - Arsenic/arsenic_logistic_residuals.html
 - Arsenic/arsenic_logistic_apc.html
 - Arsenic/arsenic_logistic_building_optimizing.html
-- Balance/treatcontrol.html
+- ✔️ Balance/treatcontrol.html
 - Beauty/beauty.html
 - CausalDiagram/diagrams.html
 - CentralLimitTheorem/heightweight.html
