@@ -39,7 +39,7 @@ WIP - Started April 29, 2021.
 - ElectionsEconomy/hibbs_coverage.html
 - ElectricCompany/electric.html
 - FakeKCV/fake_kcv.html
-- FakeMidtermFinal/simulation.html
+- ✔️ FakeMidtermFinal/simulation.html
 - FakeMidtermFinal/simulation_based_design.html
 - FrenchElection/ps_primaire.html
 - ✔️ Gay/gay_simple.html
