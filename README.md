@@ -69,7 +69,7 @@ WIP - Started April 29, 2021.
 - Newcomb/newcomb.html
 - Parabola/parabola.html
 - Peacekeeping/peace.html
-- PearsonLee/heights.html
+- ✔️ PearsonLee/heights.html (n.b. some issues in regression values)
 - Pew/pew.html
 - PoissonExample/poissonexample.html
 - ✔️ Pollution/pollution.html
