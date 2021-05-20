@@ -18,7 +18,7 @@ WIP - Started April 29, 2021.
 - ✔️ Balance/treatcontrol.html
 - Beauty/beauty.html
 - CausalDiagram/diagrams.html
-- CentralLimitTheorem/heightweight.html
+- ✔️ CentralLimitTheorem/heightweight.html
 - Childcare/childcare.html
 - ChileSchools/chile_schools.html
 - ✔️ Congress/congress.html
