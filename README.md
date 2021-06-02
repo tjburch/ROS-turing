@@ -75,7 +75,7 @@ WIP - Started April 29, 2021.
 - ✔️ Pollution/pollution.html
 - Poststrat/poststrat.html
 - Poststrat/poststrat2.html
-- ProbabilitySimulation/probsim.html
+- ✔️ ProbabilitySimulation/probsim.html
 - Residuals/residuals.html
 - Restaurant/restaurant.html
 - RiskyBehavior/risky.html
