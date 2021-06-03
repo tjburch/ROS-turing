@@ -83,7 +83,7 @@ WIP - Started April 29, 2021.
 - Robit/robit.html
 - Rsquared/rsquared.html
 - Sesame/sesame.html
-- SexRatio/sexratio.html
+- ✔️ SexRatio/sexratio.html
 - SimpleCausal/causal.html
 - ✔️ Simplest/simplest.html
 - Simplest/simplest_lm.html
