@@ -34,7 +34,7 @@ WIP - Started April 29, 2021.
 - Earnings/earnings_compound.html
 - 🚧 Earnings/height_and_weight.html
 - ✔️ ElectionsEconomy/bayes.html
-- 🚧 ElectionsEconomy/hibbs.html
+- ✔️ ElectionsEconomy/hibbs.html
 - ElectionsEconomy/hills.html
 - ElectionsEconomy/hibbs_coverage.html
 - ElectricCompany/electric.html
