@@ -76,7 +76,7 @@ WIP - Started April 29, 2021.
 - Poststrat/poststrat.html
 - Poststrat/poststrat2.html
 - ✔️ ProbabilitySimulation/probsim.html
-- Residuals/residuals.html
+- ✔️ Residuals/residuals.html
 - Restaurant/restaurant.html
 - RiskyBehavior/risky.html
 - Roaches/roaches.html
