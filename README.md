@@ -81,7 +81,7 @@ WIP - Started April 29, 2021.
 - RiskyBehavior/risky.html
 - Roaches/roaches.html
 - Robit/robit.html
-- Rsquared/rsquared.html
+- 🚧 Rsquared/rsquared.html
 - Sesame/sesame.html
 - ✔️ SexRatio/sexratio.html
 - SimpleCausal/causal.html
