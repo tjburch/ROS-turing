@@ -27,7 +27,7 @@ WIP - Started April 29, 2021.
 - ✔️ Coverage/coverage.html
 - CrossValidation/crossvalidation.html
 - SampleSize/simulation.html
-- Death/polls.html
+- 🚧 Death/polls.html
 - DifferentSoftware/linear.html
 - Earnings/earnings_regression.html
 - Earnings/earnings_bootstrap.html
