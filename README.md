@@ -52,7 +52,7 @@ WIP - Started April 29, 2021.
 - Imputation/imputation_gg.html
 - ✔️ Incentives/incentives.html
 - ✔️ Influence/influence.html
-- Interactions/interactions.html
+- ✔️ Interactions/interactions.html
 - Introclass/residual_plots.html
 - KidIQ/kidiq.html
 - KidIQ/kidiq_loo.html
