@@ -70,7 +70,7 @@ WIP - Started April 29, 2021.
 - Parabola/parabola.html
 - Peacekeeping/peace.html
 - ✔️ PearsonLee/heights.html
-- Pew/pew.html
+- 🚧 Pew/pew.html
 - PoissonExample/poissonexample.html
 - ✔️ Pollution/pollution.html
 - Poststrat/poststrat.html
