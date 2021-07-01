@@ -41,7 +41,7 @@ WIP - Started April 29, 2021.
 - FakeKCV/fake_kcv.html
 - ✔️ FakeMidtermFinal/simulation.html
 - FakeMidtermFinal/simulation_based_design.html
-- FrenchElection/ps_primaire.html
+- ✔️ FrenchElection/ps_primaire.html
 - ✔️ Gay/gay_simple.html
 - Gay/gay.html
 - ✔️ Golf/golf.html
