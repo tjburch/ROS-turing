@@ -78,7 +78,7 @@ WIP - Started April 29, 2021.
 - ✔️ ProbabilitySimulation/probsim.html
 - ✔️ Residuals/residuals.html
 - Restaurant/restaurant.html
-- RiskyBehavior/risky.html
+- ✔️ RiskyBehavior/risky.html
 - Roaches/roaches.html
 - Robit/robit.html
 - 🚧 Rsquared/rsquared.html
