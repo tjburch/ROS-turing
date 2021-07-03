@@ -86,7 +86,7 @@ WIP - Started April 29, 2021.
 - ✔️ SexRatio/sexratio.html
 - SimpleCausal/causal.html
 - ✔️ Simplest/simplest.html
-- Simplest/simplest_lm.html
+- ✔️ Simplest/simplest_lm.html
 - ✔️ Stents/stents.html
 - Storable/storable.html
 - Student/student.html
