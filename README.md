@@ -20,7 +20,7 @@ WIP - Started April 29, 2021.
 - ✔️ CausalDiagram/diagrams.html
 - ✔️ CentralLimitTheorem/heightweight.html
 - Childcare/childcare.html
-- ChileSchools/chile_schools.html
+- 🚧 ChileSchools/chile_schools.html
 - ✔️ Congress/congress.html
 - Congress/congress_plots.html
 - Coop/riverbay.html
