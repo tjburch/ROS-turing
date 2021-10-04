@@ -45,7 +45,7 @@ WIP - Started April 29, 2021.
 - ✔️ Gay/gay_simple.html
 - Gay/gay.html
 - ✔️ Golf/golf.html
-- HDI/hdi.html
+- ✔️ HDI/hdi.html
 - HealthExpenditure/healthexpenditure.html
 - ✔️ Helicopters/helicopters.html
 - Imputation/imputation.html
