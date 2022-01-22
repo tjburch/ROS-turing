@@ -32,7 +32,7 @@ WIP - Started April 29, 2021.
 - 🚧 Death/polls.html
 - DifferentSoftware/linear.html
 - Earnings/earnings_regression.html
-- Earnings/earnings_bootstrap.html
+- ✔️ Earnings/earnings_bootstrap.html
 - Earnings/earnings_compound.html
 - ✔️ Earnings/height_and_weight.html
 - ✔️ ElectionsEconomy/bayes.html
