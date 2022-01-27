@@ -28,7 +28,7 @@ WIP - Started April 29, 2021.
 - Coop/riverbay.html
 - ✔️ Coverage/coverage.html
 - CrossValidation/crossvalidation.html
-- SampleSize/simulation.html
+- ✔️ SampleSize/simulation.html
 - 🚧 Death/polls.html
 - DifferentSoftware/linear.html
 - Earnings/earnings_regression.html
