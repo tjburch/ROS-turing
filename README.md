@@ -73,7 +73,7 @@ WIP - Started April 29, 2021.
 - Peacekeeping/peace.html
 - ✔️ PearsonLee/heights.html
 - 🚧 Pew/pew.html
-- PoissonExample/poissonexample.html
+- ✔️ PoissonExample/poisson_regression.html
 - ✔️ Pollution/pollution.html
 - Poststrat/poststrat.html
 - Poststrat/poststrat2.html
