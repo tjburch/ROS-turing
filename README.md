@@ -55,7 +55,7 @@ WIP - Started April 29, 2021.
 - ✔️ Incentives/incentives.html
 - ✔️ Influence/influence.html
 - ✔️ Interactions/interactions.html
-- Introclass/residual_plots.html
+- ✔️ Introclass/residual_plots.html
 - KidIQ/kidiq.html
 - KidIQ/kidiq_loo.html
 - KidIQ/kidiq_R2.html
