@@ -91,5 +91,5 @@ WIP - Started April 29, 2021.
 - ✔️ Simplest/simplest_lm.html
 - ✔️ Stents/stents.html
 - Storable/storable.html
-- Student/student.html
+- 🚧 Student/student.html
 - 🚧 Unemployment/unemployment.html
